@@ -1,6 +1,6 @@
 # Python Command Line Utilities
 
-** THIS PROJECT IS IN ALPHA AND HAS NOT BE THOROUGHLY TESTED. FOR THE LOVE OF GOD, DO NOT RUN THIS ON ANYTHING CRITICAL UNTIL YOU HAVE TESTED IT ON A DUMMY SCENARIO AND UNDERSTAND HOW IT WORKS. **
+**THIS PROJECT IS IN ALPHA AND HAS NOT BE THOROUGHLY TESTED. PLEASE, DO NOT RUN THIS ON ANYTHING CRITICAL UNTIL YOU HAVE TESTED IT ON A DUMMY SCENARIO AND UNDERSTAND HOW IT WORKS.**
 
 Shell scripting is awesome. Actually, the power of shell scripting is awesome. Shell scripting itself stinks. It then occurred to me that anyone who is going to be using shell scripts is going to have Python installed. So I decided to start writing some tasks I ran into into Python scripts that can be run from the command line.
 
